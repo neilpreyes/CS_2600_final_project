@@ -3,8 +3,8 @@
 #define PIN_LED 2
 
 // WiFi
-const char *ssid = "wifi ssid"; // Enter your WiFi name
-const char *password = "wifi password";  // Enter WiFi password
+const char *ssid = "SpectrumSetup-F0"; // Enter your WiFi name
+const char *password = "mahalkita825";  // Enter WiFi password
 
 // MQTT Broker
 const char *mqtt_broker = "192.168.56.1";
